@@ -1,0 +1,55 @@
+2026-06-02 14:46:12,383 - INFO - polling_v2 - 单次轮询模式
+2026-06-02 14:46:13,334 - INFO - polling_v2 - 发现 PR #1: add a yaml  head: f470569c
+2026-06-02 14:46:13,334 - INFO - polling_v2 - [New] PR #1，启动 CI 流程
+2026-06-02 14:46:13,334 - INFO - ci_runner - ========== CI 开始: PR #1 ==========
+2026-06-02 14:46:14,359 - INFO - ci_runner - 分支: wxl  仓库: dalaozi/AscendCloud
+2026-06-02 14:46:14,359 - INFO - ci_runner - Commit SHA: f470569c
+2026-06-02 14:46:14,359 - INFO - ci_runner - 全量克隆 → git -c http.sslVerify=false clone -b wxl https://github.com/dalaozi/AscendCloud.git /home/wxl/ci_basic/workspace/pr_1_wxl
+2026-06-02 14:55:04,702 - INFO - polling_v2 - 单次轮询模式
+2026-06-02 14:55:05,746 - INFO - polling_v2 - 发现 PR #1: add a yaml  head: f470569c
+2026-06-02 14:55:05,746 - INFO - polling_v2 - [New] PR #1，启动 CI 流程
+2026-06-02 14:55:05,746 - INFO - ci_runner - ========== CI 开始: PR #1 ==========
+2026-06-02 14:55:06,733 - INFO - ci_runner - 分支: wxl  仓库: dalaozi/AscendCloud
+2026-06-02 14:55:06,734 - INFO - ci_runner - Commit SHA: f470569c
+2026-06-02 14:55:06,738 - INFO - ci_runner - 全量克隆 → git -c http.sslVerify=false clone -b wxl https://github.com/dalaozi/AscendCloud.git /home/wxl/ci_basic/workspace/pr_1_wxl
+2026-06-02 15:03:48,430 - INFO - polling_v2 - 单次轮询模式
+2026-06-02 15:03:49,525 - INFO - polling_v2 - 发现 PR #1: add a yaml  head: f470569c
+2026-06-02 15:03:49,526 - INFO - polling_v2 - [New] PR #1，启动 CI 流程
+2026-06-02 15:03:49,526 - INFO - ci_runner - ========== CI 开始: PR #1 ==========
+2026-06-02 15:03:50,444 - INFO - ci_runner - 分支: wxl  仓库: dalaozi/AscendCloud
+2026-06-02 15:03:50,445 - INFO - ci_runner - Commit SHA: f470569c
+2026-06-02 15:03:50,454 - INFO - ci_runner - 全量克隆 → git -c http.proxy=http://w30048107:123123qQ%21@172.18.100.92:8080 -c http.sslVerify=false clone -b wxl https://github.com/dalaozi/AscendCloud.git
+2026-06-02 15:03:51,808 - INFO - ci_runner - 代码就绪: /home/wxl/ci_basic/workspace/pr_1_wxl
+2026-06-02 15:03:51,808 - INFO - ci_runner - 执行验证（占位）→ work_dir=/home/wxl/ci_basic/workspace/pr_1_wxl
+2026-06-02 15:03:53,004 - INFO - ci_runner - 记录已保存: 1:f470569caf15c713ca64e3b636f2b7834fbc24fb
+2026-06-02 15:03:53,004 - INFO - ci_runner - ✅ PR #1 验证通过 (2.3s)
+2026-06-02 15:03:53,004 - INFO - ci_runner - 记录已保存: 1:f470569caf15c713ca64e3b636f2b7834fbc24fb
+2026-06-02 15:03:53,005 - INFO - polling_v2 - 单次轮询完成
+2026-06-02 15:07:30,931 - INFO - polling_v2 - 单次轮询模式
+2026-06-02 15:07:31,860 - INFO - polling_v2 - 发现 PR #1: add a yaml  head: f470569c
+2026-06-02 15:07:31,860 - INFO - polling_v2 - 单次轮询完成
+2026-06-02 17:09:24,533 - INFO - polling_v2 - 仓库: dalaozi/AscendCloud  轮询间隔: 600s
+2026-06-02 17:09:24,539 - INFO - polling_v2 - 记录文件: /home/wxl/ci_basic/triggered_prs.txt
+2026-06-02 17:09:24,539 - INFO - polling_v2 - ============================================================
+2026-06-02 17:09:25,482 - INFO - polling_v2 - 休眠 600s ...
+2026-06-02 17:19:26,309 - INFO - polling_v2 - 休眠 600s ...
+
+2026-06-03 09:18:11,698 - INFO - ci_runner - 记录已保存: 3:57a9fb5496353089322407c8740a718972c0a7a6
+2026-06-03 09:18:11,699 - INFO - polling_v2 - 单次轮询完成
+2026-06-03 09:19:32,323 - INFO - polling_v2 - 单次轮询模式
+2026-06-03 09:19:33,081 - INFO - polling_v2 - 发现 PR #3: test wxl2  head: 57a9fb54
+2026-06-03 09:19:33,082 - INFO - polling_v2 - 单次轮询完成
+2026-06-03 09:19:42,874 - INFO - polling_v2 - 单次轮询模式
+2026-06-03 09:19:43,625 - INFO - polling_v2 - 发现 PR #3: test wxl2  head: 57a9fb54
+2026-06-03 09:19:43,625 - INFO - polling_v2 - [New] PR #3，启动 CI 流程
+2026-06-03 09:19:43,625 - INFO - ci_runner - ========== CI 开始: PR #3 ==========
+2026-06-03 09:19:44,477 - INFO - ci_runner - 分支: wxl2  仓库: dalaozi/AscendCloud
+2026-06-03 09:19:44,477 - INFO - ci_runner - Commit SHA: 57a9fb54
+2026-06-03 09:19:44,477 - INFO - ci_runner - 全量克隆 → git -c http.proxy=http://w30048107:123123qQ%21@172.18.100.92:8080 -c http.sslVerify=false clone -b wxl2 https://github.com/dalaozi/AscendCloud.git
+2026-06-03 09:19:45,744 - INFO - ci_runner - 代码就绪: /home/wxl/ci_basic/workspace/pr_3_wxl2
+2026-06-03 09:19:45,744 - INFO - ci_runner - 执行验证（占位）→ work_dir=/home/wxl/ci_basic/workspace/pr_3_wxl2
+2026-06-03 09:19:47,274 - INFO - ci_runner - 记录已保存: 3:57a9fb5496353089322407c8740a718972c0a7a6
+2026-06-03 09:19:47,274 - INFO - ci_runner - ✅ PR #3 验证通过 (2.1s)
+2026-06-03 09:19:47,274 - INFO - ci_runner - 记录已保存: 3:57a9fb5496353089322407c8740a718972c0a7a6
+2026-06-03 09:19:47,275 - INFO - polling_v2 - 单次轮询完成
+
